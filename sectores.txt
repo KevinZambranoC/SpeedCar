@@ -1,7 +1,0 @@
-1 Centro
-2 Norte
-4 kudra
-5 ROSAS
-6 PARAMO
-7 LASROSAS
-8 LASPIEDRAS
