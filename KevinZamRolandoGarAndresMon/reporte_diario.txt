@@ -1,0 +1,17 @@
+**** Reporte Diario ****
+
+Vehículos más usados:
+Placa: ABC123 | Modelo: AVEO | Marca: CHEVROLET | Disponible: Sí
+Placa: ABC1234 | Modelo: FIESTA | Marca: FORD | Disponible: Sí
+Placa: ABC12345 | Modelo: CHEVETTE | Marca: CHEVROLET | Disponible: Sí
+
+Usuarios frecuentes:
+Cédula: 12345678 | Nombre: Juan Perez
+Cédula: 23456789 | Nombre: Maria Lopez
+Cédula: 29929008 | Nombre: KEVIN
+Cédula: 29637008 | Nombre: ROLANDO
+
+Resumen de operaciones:
+Total de usuarios: 4
+Total de vehículos: 3
+Total de sectores: 7
